@@ -1,0 +1,52 @@
+{
+  "shoppingItems": [
+    {
+      "content": "🍓 Jahody",
+      "state": "active",
+      "count": 1,
+      "id": 7
+    },
+    {
+      "content": "🥒 Okurky",
+      "state": "active",
+      "count": 1,
+      "id": 8
+    },
+    {
+      "content": "🍋 Citrony",
+      "state": "active",
+      "count": 1,
+      "id": 9
+    },
+    {
+      "content": "🥩 Maso",
+      "state": "active",
+      "count": 1,
+      "id": 10
+    },
+    {
+      "content": "🍟 Hranolky",
+      "state": "active",
+      "count": 1,
+      "id": 11
+    },
+    {
+      "content": "🍻 Piva",
+      "state": "completed",
+      "count": 1,
+      "id": 12
+    },
+    {
+      "content": "✏ Propiska",
+      "state": "completed",
+      "count": 1,
+      "id": 13
+    },
+    {
+      "content": "🍪 Sušenky",
+      "state": "active",
+      "count": 1,
+      "id": 14
+    }
+  ]
+}
